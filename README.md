@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **full stack related projects**
 
-- 💬 Ask me about **nodejs**,**Express.js**,**Next.js**
+- 💬 Ask me about **reactjs**,**Express.js**,**Next.js**
 
 - 📫 How to reach me **buvanshangar0102@gmail.com**
 
