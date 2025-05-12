@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buvan Shangar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer </h3>
 <h4>👨‍💻 My Portfolio <a href="https://buvanshangar.vercel.app" target="_top" rel="">https://buvanshangar.vercel.app</a></h4>
 
 - 🔭 I’m currently working on **<a href="https://github.com/BuvanShangar/backend-server" target="_top" rel="">https://github.com/BuvanShangar/backend-server</a>**
