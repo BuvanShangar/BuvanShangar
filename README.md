@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **<a href="https://github.com/BuvanShangar/backend-server" target="_top" rel="">https://github.com/BuvanShangar/backend-server</a>**
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Mern Stack!**
 
 - 👯 I’m looking to collaborate on **full stack related projects**
 
