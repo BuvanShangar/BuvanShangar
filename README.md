@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Buvan Shangar</h1>
+<h1 align="center">Hi 👋, I'm Buvan Shangar!</h1>
 <h3 align="center">A passionate full stack developer </h3>
 <h4>👨‍💻 My Portfolio <a href="https://buvanshangar.vercel.app" target="_top" rel="">https://buvanshangar.vercel.app</a></h4>
 
